@@ -1,1 +1,2 @@
-# Avaricious_snake
+# c贪吃蛇代码
+有图有音乐
